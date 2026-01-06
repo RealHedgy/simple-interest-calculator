@@ -1,0 +1,9 @@
+PS C:\Users\mshak\mcino-Introduction-to-Git-and-GitHub> curl https://api.github.com/repos/RealHedgy/mcino-Introduction-to-Git-and-GitHub | Select-Object -ExpandProperty Content
+
+{
+  "full_name": "RealHedgy/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  }
+}
